@@ -1,0 +1,37 @@
+/* comentario em css
+seletor de elementos-linha 4
+*/
+
+
+h1 {
+    color:blueviolet;
+}
+/*seletor de id*/
+    #xuxu{
+background-color: rgb(180, 125, 136);
+    }
+
+/*seletor de classe */
+/*afeta todos os elementos da classe estiloso*/
+.estiloso{
+    border-style:solid;
+}
+/*afeta apenas os paragrafos da classe centralizada*/
+p.cantraliza{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
